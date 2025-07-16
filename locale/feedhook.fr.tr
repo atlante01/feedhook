@@ -1,0 +1,16 @@
+# textdomain:feedhook
+
+<message>=<message>
+Send a suggestion to the administrative team.=Envoyer une suggestion à l'équipe administrative.
+Usage: /suggestion <message>=Utilisation: /suggestion <message>
+
+Message too=Message trop
+ short = court 
+ long = long 
+caracters=caractères
+minimum=minimum
+maximum=maximum
+The suggestion system is currently unavailable. please contact the administrative team.=Le système de suggestions est actuellement indisponible. Veuillez contacter l'équipe administrative.
+Please wait=S'il vous plaît, attendez
+seconds before using /suggestion again.=secondes avant d'utiliser à nouveau /suggestion.
+Your suggestion has been sent to the administrative team.=Votre suggestion a été transmise à l'équipe administrative.
