@@ -34,8 +34,8 @@ local function sanitize_message(message)
     if not message then return "" end
 
     -- On évite les message de ce genre
-    message = message:gsub("@everyone")
-    message = message:gsub("@here")
+    message = message:gsub("@everyone", "")
+    message = message:gsub("@here", "")
 
     return message
 end
